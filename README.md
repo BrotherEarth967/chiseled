@@ -16,6 +16,9 @@ Stone                   —                   Zombie
 Deepslate               Weird Thing         Enderman
 ```
 
+## Bedrock Port
+The Bedrock port was created for me by [NeraWoowty](https://www.planetminecraft.com/member/neraminusminus/). [Contact them](https://nerawoowty.github.io/contact.html) regarding it, as I do not have much experience with Bedrock RPs.
+
 ## License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
