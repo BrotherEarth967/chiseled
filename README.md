@@ -13,7 +13,7 @@ Quartz                  —                   Ghast
 Sandstone               Creeper             Creeper
 Red Sandstone           Wither              Skeleton
 Stone                   —                   Zombie
-Grimstone               Weird Thing         Enderman
+Deepslate               Weird Thing         Enderman
 ```
 
 ## License
