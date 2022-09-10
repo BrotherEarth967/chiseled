@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "A redesign of all the chiseled blocks",
+        "name": "Chiseled!",
+        "uuid": "a14cc250-d5f5-11eb-b8bc-0242ac130003",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "A redesign of all the chiseled blocks",
+            "type": "resources",
+            "uuid": "ab102c5a-d5f5-11eb-b8bc-0242ac130003",
+            "version": [0, 0, 1]
+        }
+    ]
+}

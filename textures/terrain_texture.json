@@ -1,0 +1,48 @@
+{
+   "num_mip_levels" : 4,
+   "padding" : 8,
+   "resource_pack_name" : "vanilla",
+   "texture_data" : {
+      "redsandstone_top" : {
+         "textures" : [
+            "textures/blocks/red_sandstone_top",
+            "textures/blocks/red_sandstone_carved",
+            "textures/blocks/red_sandstone_top",
+            "textures/blocks/red_sandstone_top"
+         ]
+      },
+      "sandstone_top" : {
+         "textures" : [
+            "textures/blocks/sandstone_top",
+            "textures/blocks/sandstone_carved",
+            "textures/blocks/sandstone_top",
+            "textures/blocks/sandstone_top"
+         ]
+      },
+      "quartz_block_bottom" : {
+         "textures" : [
+            "textures/blocks/quartz_block_top",
+            "textures/blocks/quartz_block_chiseled",
+            "textures/blocks/quartz_block_lines_top",
+            "textures/blocks/quartz_block_bottom"
+         ]
+      },
+      "quartz_block_side" : {
+         "textures" : [
+            "textures/blocks/quartz_block_side",
+            "textures/blocks/quartz_block_chiseled",
+            "textures/blocks/quartz_block_lines",
+            "textures/blocks/quartz_block_bottom"
+         ]
+      },
+      "quartz_block_top" : {
+         "textures" : [
+            "textures/blocks/quartz_block_top",
+            "textures/blocks/quartz_block_chiseled",
+            "textures/blocks/quartz_block_lines_top",
+            "textures/blocks/quartz_block_bottom"
+         ]
+      }
+   },
+   "texture_name" : "atlas.terrain"
+}
